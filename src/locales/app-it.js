@@ -1,0 +1,15 @@
+export default {
+    "app.insert-password": "Inserisci la tua nuova password",
+    "app.reinsert-password": "Inserisci di nuovo la tua nuova password",
+    "app.confirm-password-label": "Conferma La Password",
+    "app.change-password-button": "Cambia password",
+    "app.password-length": "La lunghezza della password deve essere di almeno 6 caratteri.",
+    "app.forbidden": "Proibito",
+    "app.email-expired": "Invia di nuovo un'e-mail",
+    "app.starting": "Reimpostazione della password...",
+    "app.reset-success": "Password modificata con successo",
+    "app.reset-failed": "Ripristino password non riuscito",
+    "app.success": "Successo",
+    "app.failed": "Errore",
+    "app.authenticating": "Verifica se il token è valido...",
+}
